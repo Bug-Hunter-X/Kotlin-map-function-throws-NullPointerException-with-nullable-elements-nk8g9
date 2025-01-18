@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using Kotlin's map function with lists containing nullable elements.  The `map` function throws a `NullPointerException` if it encounters a null value.  The solution shows how to handle this using the safe call operator or the let function.
